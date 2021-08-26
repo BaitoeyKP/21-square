@@ -1,3 +1,4 @@
+//64010045 KANYARAT PHOOKOSOT
 #include<stdio.h>
 int main(){
 	int n;
